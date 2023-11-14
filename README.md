@@ -13,3 +13,5 @@ Buttons in the background are designed with 10k pull-down resistors. These are c
 Jumper cables running from the LED driver to LED matrix may be twisted. Be careful with the orientation of these wires.
 
 The LED and resistor in the background on the breadboard is connected to pin 9 of the Arduino. 
+
+Please contact Geoffrey Fang or Scott Hirano if you have any issues working with this repository!
