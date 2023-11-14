@@ -8,7 +8,7 @@ Below is a picture of the completed circuit:
 
 Note that the LED matrix is a 8x8 red-green LED matrix with 24 pins. It is oriented such that the model number is facing away in the picture. An Adafruit HT16K33 LED Driver is used to control the LED Matrix. 
 
-Buttons in the background are designed with pull-down resistors. These are connected to pins 2, 3, 4 of the Arduino.
+Buttons in the background are designed with 10k pull-down resistors. These are connected to pins 2, 3, 4 of the Arduino.
 
 Jumper cables running from the LED driver to LED matrix may be twisted. Be careful with the orientation of these wires.
 
