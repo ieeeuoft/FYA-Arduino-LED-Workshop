@@ -1,5 +1,5 @@
 # 2023-FYA-Arduino-LED-Workshop
-UofT IEEE Student Branch FYA Workshop for Arduino and LED Matricies
+IEEE University of Toronto Student Branch FYA Workshop for Arduino and LED Matricies
 
 final_version contains code used to demonstrate a LED matrix circuit. This circuit was used to teach IEEE Tech Team first year associates about the fundamentals of Arduino programming and circuit building. 
 
